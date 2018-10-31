@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>xonomy</artifactId>
-    <version>3.5.0</version>
+    <version>3.5.1-SNAPSHOT</version>
     <name>Xonomy</name>
     <description>WebJar for Xonomy</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/xonomy</url>
         <connection>scm:git:https://github.com/webjars/xonomy.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/xonomy.git</developerConnection>
-        <tag>xonomy-3.5.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
